@@ -21,7 +21,7 @@ h3 {
 }
 
 nav {
-    background: #333;
+    background: #5e8564;
     padding: 15px;
     margin-bottom: 30px;
     border-radius: 8px;
@@ -40,7 +40,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #fc03ad;
+    color: #d8eddb;
 }
 
 #about {
@@ -128,7 +128,7 @@ textarea {
 
 button {
     margin-left: 136px;
-    background: #f26dc8;
+    background: #768578;
     color: white;
     padding: 12px 30px;
     border: none;
@@ -139,5 +139,5 @@ button {
 }
 
 button:hover {
-    background: #fc03ad;
+    background: #5e8564;
 }
